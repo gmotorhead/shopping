@@ -1,0 +1,17 @@
+.slider {
+	padding: 30px 0px;
+}
+
+.slider .shop-btn {
+	height: 30px;
+}
+
+.slider .caption h3 {
+	text-transform: uppercase;
+	color: #afa0af;
+	text-align: center;
+}
+
+.slider .thumbnail img {
+	height: 100px;
+}

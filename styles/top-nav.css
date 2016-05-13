@@ -1,3 +1,8 @@
+.top-navbar, .bottom-navbar {
+	padding: 0px 15px; 
+	margin-bottom: 0px;
+}
+
 .top-nav-right li {
 	height: 67px;
 }
@@ -7,7 +12,7 @@
 }
 
 .top-navbar-form {
-	margin-top: 15.5px;
+	margin-top: 15px;
 	margin-left: 25%;
 	width: 35%;
 }

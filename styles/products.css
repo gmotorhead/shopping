@@ -1,0 +1,42 @@
+.products {
+	padding: 50px 0px;
+}
+
+.products .shop-btn {
+	height: 30px;
+}
+
+.products .caption h3 {
+	text-transform: uppercase;
+	color: #afa0af;
+	text-align: center;
+}
+
+.products .thumbnail img {
+	height: 120px;
+}
+
+
+.products1 {
+	padding: 20px 0px;
+}
+
+.products1 .shop-btn {
+	height: 30px;
+}
+
+.products1 .caption h3 {
+	text-transform: uppercase;
+	color: #afa0af;
+	text-align: center;
+}
+
+.products1 .thumbnail img {
+	height: 100px;
+} 
+
+.shop-btn span {
+    color: #9090a0;
+   
+    font-size: 20px;
+}

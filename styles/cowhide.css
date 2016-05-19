@@ -1,3 +1,12 @@
+.shop {
+	outline: none !important;
+}
+
+.shop:hover {
+	border-color: #000 !important;
+	color: #000 !important;
+}
+
 .cowhide {
 	padding: 50px 0px;
 	background-color: #38bfb5;
@@ -23,24 +32,4 @@
 	background: none;
 	border: 2px dotted #FFFFFF;
 	color: #FFFFFF;
-}
-
-
-
-
-
-
-
-.featured {
-	padding: 5px 0px;
-	background-color: #38bfb5;
-}
-
-.featured-description-div {
-	color: #FFFFFF
-}
-
-.featured-description-div .main-title {
-	font-size: 30px;
-	font-weight: 100;
 }
